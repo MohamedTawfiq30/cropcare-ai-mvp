@@ -1,0 +1,1 @@
+# cropcare-ai-mvp
